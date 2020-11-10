@@ -1,0 +1,33 @@
+# depslib dependency file v1.0
+1515973330 source:c:\users\guicu\desktop\iia\iiaofc\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	"algoritmo.h"
+	"utils.h"
+
+1515973154 c:\users\guicu\desktop\iia\iiaofc\algoritmo.h
+
+1515968504 c:\users\guicu\desktop\iia\iiaofc\utils.h
+
+1515945910 source:c:\users\guicu\desktop\iia\iiaofc\funcao.c
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1515945910 c:\users\guicu\desktop\iia\iiaofc\funcao.h
+
+1516029120 source:c:\users\guicu\desktop\iia\iiaofc\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1515968984 source:c:\users\guicu\desktop\iia\iiaofc\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"algoritmo.h"
+	"utils.h"
+

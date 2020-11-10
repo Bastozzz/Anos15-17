@@ -1,0 +1,33 @@
+//
+//  Dados.c
+//  TP2IIA
+//
+//  Created by Gabs on 22/12/2017.
+//  Copyright © 2017 Gabriel Pinheiro nº 21260736. All rights reserved.
+//
+
+#include "Dados.h"
+#include <stdlib.h>
+#include <stdio.h>
+#include <string.h>
+#include <time.h>
+#include <locale.h>
+
+
+
+void gera_sol_inicial(int *sol, int v)
+{
+
+}
+
+int random_l_h(int min, int max)
+{
+    return min + rand() % (max);
+}
+
+
+
+
+
+
+

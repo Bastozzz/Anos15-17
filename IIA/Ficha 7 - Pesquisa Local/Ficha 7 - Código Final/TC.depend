@@ -1,0 +1,31 @@
+# depslib dependency file v1.0
+1479671204 source:c:\users\guicu\desktop\iia\iia_1617_ficha7_codigoficha7_final\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1479410501 c:\users\guicu\desktop\iia\iia_1617_ficha7_codigoficha7_final\algoritmo.h
+
+1478082402 c:\users\guicu\desktop\iia\iia_1617_ficha7_codigoficha7_final\funcao.h
+
+1478082615 c:\users\guicu\desktop\iia\iia_1617_ficha7_codigoficha7_final\utils.h
+
+1478801605 source:c:\users\guicu\desktop\iia\iia_1617_ficha7_codigoficha7_final\funcao.c
+	"funcao.h"
+
+1515770753 source:c:\users\guicu\desktop\iia\iia_1617_ficha7_codigoficha7_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"utils.h"
+
+1478802182 source:c:\users\guicu\desktop\iia\iia_1617_ficha7_codigoficha7_final\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+

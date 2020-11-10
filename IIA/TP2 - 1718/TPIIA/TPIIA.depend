@@ -1,0 +1,8 @@
+# depslib dependency file v1.0
+1513951424 source:c:\users\user\desktop\faculdade\iia\tpiia\main.c
+	<stdio.h>
+	<stdlib.h>
+	"moedas.h"
+
+1513949798 c:\users\user\desktop\faculdade\iia\tpiia\moedas.h
+

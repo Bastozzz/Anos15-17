@@ -1,0 +1,59 @@
+# depslib dependency file v1.0
+1478780991 source:c:\users\user\desktop\iia\codigotrepacolinas\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1478082415 c:\users\user\desktop\iia\codigotrepacolinas\algoritmo.h
+
+1478082402 c:\users\user\desktop\iia\codigotrepacolinas\funcao.h
+
+1478082615 c:\users\user\desktop\iia\codigotrepacolinas\utils.h
+
+1478776028 source:c:\users\user\desktop\iia\codigotrepacolinas\funcao.c
+	"funcao.h"
+
+1478647894 source:c:\users\user\desktop\iia\codigotrepacolinas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"utils.h"
+
+1478082571 source:c:\users\user\desktop\iia\codigotrepacolinas\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1512044095 source:c:\users\user\desktop\faculdade\iia\codigotrepacolinas\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1478082415 c:\users\user\desktop\faculdade\iia\codigotrepacolinas\algoritmo.h
+
+1478082402 c:\users\user\desktop\faculdade\iia\codigotrepacolinas\funcao.h
+
+1478082615 c:\users\user\desktop\faculdade\iia\codigotrepacolinas\utils.h
+
+1478776028 source:c:\users\user\desktop\faculdade\iia\codigotrepacolinas\funcao.c
+	"funcao.h"
+
+1478647894 source:c:\users\user\desktop\faculdade\iia\codigotrepacolinas\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"utils.h"
+
+1478082571 source:c:\users\user\desktop\faculdade\iia\codigotrepacolinas\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+

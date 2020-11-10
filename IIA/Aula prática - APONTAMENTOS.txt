@@ -1,0 +1,16 @@
+AGENTES REATIVOS
+	
+	Preceções: o que podem ver?
+		   vizinhança
+
+	Ações: o que podem fazer?
+	       movimentos
+	       ações sobre o ambiente
+
+	Controlados por regras
+	
+		SE "perceção" ENTÃO "ação"
+
+	EX: SE "vê comida à frente" ENTÃO "avança"
+	    SE "vê obstáculo à frente" ENTÃO "roda"
+	    SE "vê comida na célula atual" ENTÃO "come"

@@ -1,0 +1,16 @@
+#ifndef Dados_h
+#define Dados_h
+#include "Structs.h"
+#include <stdio.h>
+
+moedas abreFich(char *nomeFich);
+
+void gera_sol_inicial(int *sol, int v);
+
+float init_rand();
+
+int random_l_h(int min, int max);
+
+void escreve_sol(int *sol, int vert);
+
+#endif /* Dados_h */

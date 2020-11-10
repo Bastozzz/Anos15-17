@@ -1,0 +1,3 @@
+﻿  Servidor.cpp
+f:\users\guicu\desktop\mega\faculdade\2 ano\1 semestre\irc\p03\servidor\servidor\servidor.cpp(85): warning C4267: 'argument': conversion from 'size_t' to 'int', possible loss of data
+  Servidor.vcxproj -> F:\Users\guicu\Desktop\MEGA\Faculdade\2 Ano\1 Semestre\IRC\P03\Servidor\x64\Debug\Servidor.exe

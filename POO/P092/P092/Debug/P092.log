@@ -1,0 +1,32 @@
+﻿  Banco.cpp
+c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(2718): error C2280: 'Conta &Conta::operator =(const Conta &)': attempting to reference a deleted function
+  c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\poo\p092\p092\conta.h(12): note: compiler has generated 'Conta::operator =' here
+  c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\poo\p092\p092\conta.h(12): note: 'Conta &Conta::operator =(const Conta &)': function was implicitly deleted because 'Conta' has a data member 'Conta::titular' of reference type
+  c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\poo\p092\p092\conta.h(4): note: see declaration of 'Conta::titular'
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\xutility(2737): note: see reference to function template instantiation '_OutIt std::_Move_unchecked1<_InIt,_OutIt>(_InIt,_InIt,_OutIt,std::_General_ptr_iterator_tag)' being compiled
+          with
+          [
+              _OutIt=Conta *,
+              _InIt=Conta *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vector(1561): note: see reference to function template instantiation '_OutIt *std::_Move_unchecked<Conta*,Conta*>(_InIt,_InIt,_OutIt)' being compiled
+          with
+          [
+              _OutIt=Conta *,
+              _InIt=Conta *
+          ]
+  c:\program files (x86)\microsoft visual studio\2017\community\vc\tools\msvc\14.15.26726\include\vector(1553): note: while compiling class template member function 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> std::vector<_Ty,std::allocator<_Ty>>::erase(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>)'
+          with
+          [
+              _Ty=Conta
+          ]
+  c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\poo\p092\p092\banco.cpp(37): note: see reference to function template instantiation 'std::_Vector_iterator<std::_Vector_val<std::_Simple_types<_Ty>>> std::vector<_Ty,std::allocator<_Ty>>::erase(std::_Vector_const_iterator<std::_Vector_val<std::_Simple_types<_Ty>>>)' being compiled
+          with
+          [
+              _Ty=Conta
+          ]
+  c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\poo\p092\p092\banco.h(8): note: see reference to class template instantiation 'std::vector<Conta,std::allocator<_Ty>>' being compiled
+          with
+          [
+              _Ty=Conta
+          ]

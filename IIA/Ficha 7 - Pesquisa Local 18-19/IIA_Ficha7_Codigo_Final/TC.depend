@@ -1,0 +1,61 @@
+# depslib dependency file v1.0
+1546102988 source:c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1479410501 c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\algoritmo.h
+
+1545594254 c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\funcao.h
+
+1478082615 c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\utils.h
+
+1546102182 source:c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\funcao.c
+	"funcao.h"
+
+1546102537 source:c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1546102182 source:f:\users\guicu\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\funcao.c
+	"funcao.h"
+
+1545594254 f:\users\guicu\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\funcao.h
+
+1546102596 source:f:\users\guicu\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"utils.h"
+
+1479410501 f:\users\guicu\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\algoritmo.h
+
+1478082615 f:\users\guicu\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\utils.h
+
+1546102537 source:f:\users\guicu\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1546102988 source:f:\users\guicu\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1546104085 source:c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	"algoritmo.h"
+	"utils.h"
+

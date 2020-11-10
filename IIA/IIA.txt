@@ -1,0 +1,11 @@
+Maior número de pessoas que não se conhecem
+Preencher matriz de adjacências a partir das ligações (bidimensional)
+0 = não se ligam
+1 = ligam-se
+
+Ex:
+
+	1	2	3
+1	1	0	0
+2	0	0	1
+3	1	1	0

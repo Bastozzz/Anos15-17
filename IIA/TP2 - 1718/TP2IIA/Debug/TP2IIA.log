@@ -1,0 +1,6 @@
+﻿  main.c
+c:\users\user\desktop\faculdade\iia\tp2iia\tp2iia\main.c(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 3 has type 'double'
+c:\users\user\desktop\faculdade\iia\tp2iia\tp2iia\main.c(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 4 has type 'double'
+c:\users\user\desktop\faculdade\iia\tp2iia\tp2iia\main.c(25): warning C4477: 'printf' : format string '%d' requires an argument of type 'int', but variadic argument 5 has type 'double'
+  TP2IIA.vcxproj -> C:\Users\User\Desktop\Faculdade\IIA\TP2IIA\Debug\TP2IIA.exe
+  TP2IIA.vcxproj -> C:\Users\User\Desktop\Faculdade\IIA\TP2IIA\Debug\TP2IIA.pdb (Full PDB)

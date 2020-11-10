@@ -1,0 +1,7 @@
+﻿  Aquario.cpp
+c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\poo\f6e1\f6e1\peixe.h(2): fatal error C1014: too many include files: depth = 1024
+  Main.cpp
+c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\poo\f6e1\f6e1\peixe.h(2): fatal error C1014: too many include files: depth = 1024
+  Peixe.cpp
+c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\poo\f6e1\f6e1\aquario.h(2): fatal error C1014: too many include files: depth = 1024
+  Generating Code...

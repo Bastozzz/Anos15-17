@@ -1,0 +1,53 @@
+Células de alimento: (Feito)
+- Castanhas X
+- Entre 5% e 20% X
+- Configurável X
+- Energia X
+  - Entre 1 e 50 X
+  - Configurável X
+- Ao ingerir eliminar X
+
+Agentes:
+- Mosca (Feito)
+  - Perceciona neighbors4 X
+  - Interage e só depois alimenta X
+  - Interage com Mosca X
+    - Interação é feita com todos os agentes Mosca percepcionados X
+    - OvoMosca no patch do outro X
+  - Desloca-se para uma das posições percepcionadas X
+  - Posição com comida é prioritária X
+  - Se todas as posições estiverem ocupadas vai para a esquerda/direita X
+  - Só uma ação por tick X
+  - Memória
+    - Energia X
+    - Fertilidade entre 0 e 100 (aleatório) X
+  - Se energia acaba morre X
+
+- MoscaEsteril
+  - Perceciona neighbors
+  - Interage com todos os agentes
+  - Interage com Mosca X
+    - Reduz fertilidade entre 0% e 10% X
+      - Configurável X
+  - Interage com MoscaEsteril X
+    - Agente com menos energia morre X
+  - Interage com OvoMosca X
+    - Número de agentes a gerar -= 1 X
+  - Não se alimenta X
+  - Mover-se para a célula com mais agentes de outro tipo X
+    - Em caso de empate a escolha é aleatória X
+  - Se não houver agentes em nenhuma das células vai para a esquerda/direita
+  - Só uma ação por tick X
+  - Memória X
+    - Energia X
+  - Se na posição inicial houver mais que dois na mesma célula -> Mosca (set breed) X
+    - Deve herdar o maior nível de energia dos agentes Mosca Vizinhos X
+      - Em caso de não haver nenhum Energia = 1 X
+  - Se energia acaba morre X
+
+- OvoMosca
+  - Qualquer número de ticks
+  - Configurável
+  - Memória
+    - Quando morre gera dois agentes Mosca (iniciais)
+    - Moscas a gerar = (int) (fertilidadePai + fertilidadeMae) / 20

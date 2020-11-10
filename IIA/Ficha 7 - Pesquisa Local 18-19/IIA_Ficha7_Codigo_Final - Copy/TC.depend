@@ -1,0 +1,24 @@
+# depslib dependency file v1.0
+1479671204 source:c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\algoritmo.c
+	<stdio.h>
+	<stdlib.h>
+	<math.h>
+	"algoritmo.h"
+	"funcao.h"
+	"utils.h"
+
+1479410501 c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\algoritmo.h
+
+1478082402 c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\funcao.h
+
+1478082615 c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\utils.h
+
+1478801605 source:c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\funcao.c
+	"funcao.h"
+
+1478802182 source:c:\users\a21260315\desktop\mega\faculdade\2 ano\1 semestre\iia\ficha 7 - pesquisa local 18-19\iia_ficha7_codigo_final\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+

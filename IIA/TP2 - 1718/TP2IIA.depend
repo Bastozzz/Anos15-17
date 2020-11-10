@@ -1,0 +1,38 @@
+# depslib dependency file v1.0
+1515780029 source:c:\users\guicu\desktop\iia\tp2iia\dados.c
+	"Dados.h"
+	<stdlib.h>
+	<stdio.h>
+	<string.h>
+	<time.h>
+	<locale.h>
+
+1515780134 c:\users\guicu\desktop\iia\tp2iia\dados.h
+	"Structs.h"
+	<stdio.h>
+
+1515772826 c:\users\guicu\desktop\iia\tp2iia\structs.h
+
+1515780551 source:c:\users\guicu\desktop\iia\tp2iia\main.c
+	<stdio.h>
+	<stdlib.h>
+	<string.h>
+	<time.h>
+	"algoritmo.h"
+	"utils.h"
+
+1515780592 c:\users\guicu\desktop\iia\tp2iia\algoritmo.h
+	"Structs.h"
+	<stdio.h>
+
+1515780029 source:c:\users\guicu\desktop\iia\tp2iia\algoritmo.c
+	"algoritmo.h"
+
+1478802182 source:c:\users\guicu\desktop\iia\tp2iia\utils.c
+	<stdio.h>
+	<stdlib.h>
+	<time.h>
+	"utils.h"
+
+1478082615 c:\users\guicu\desktop\iia\tp2iia\utils.h
+
